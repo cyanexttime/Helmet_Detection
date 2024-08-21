@@ -3,11 +3,11 @@
 ## Pre-requests
 1. Git clone the repository
 ```bash
-git clone https://github.com/AlanSunAlan/federated_train_yolov5.git
+git clone https://github.com/cyanexttime/Helmet_Detection.git
 ```
 2. cd to the cloned repository
 ```bash
-cd federated_train_yolov5
+cd Helmet_Detection
 ```
 3. Git clone the yolov5 repository
 ```bash
